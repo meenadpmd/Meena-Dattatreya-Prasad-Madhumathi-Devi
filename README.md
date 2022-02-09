@@ -1,1 +1,5 @@
 # Meena-Dattatreya-Prasad-Madhumathi-Devi
+
+Hi, welcome to my page. My name is Meena. Friends call me Minnie, Meenu etc. I come from Hyderabad which is called the City of Forts/Palaces. It has rich history and heritage. I have completed my undergraduate degree in Mechatronics (Mechanical plus electronics). The courses started with introduction to Mechanical Engineering and electronics engineering, towards fourth year we had courses combined in both leading to sensors and robotics - Mechanical for outer functions and electronics for internal functioning. I had pursued my Master's Degree in Information System taking courses in Operations Research, Statistics, algorithms etc. This has paved way to my interest in Data Science. I have given the required certifications. I have trained by pursuing short term contract projects as a Data Analyst paving way for me to learn several aspects of Data Science. 
+
+I love spending my free time learning new recipes and enjoying great food. Good food and great company is all that I need for rejuvenation. I wish to use Github to explore new codes, learn fun stuff and improve my coding skills. 
